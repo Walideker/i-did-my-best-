@@ -1,0 +1,15 @@
+ALGORITHM Dot product
+VAR
+    v1:INTEGER;
+    v1:= 12;
+    v2:INTEGER;
+    v2:14;
+BEGIN
+    FUNCTION called dot_product(a,b) : integer
+    VAR
+        v1+v2
+    BEGIN
+        a+b
+        RETURN (2,8) ;
+    END
+END
